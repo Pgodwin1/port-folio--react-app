@@ -44,9 +44,10 @@ export const Desc = Styled.div`
 `
 export const Img = Styled.div`
   margin-right: 60px;
-  height: 200px;
+  height: 300px;
   border: 10px;
   img{
+    width: 70%;
     border-radius: 50%;
   }
 `
